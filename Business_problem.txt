@@ -1,0 +1,12 @@
+Business problem -  
+
+Our client, a mid-sized company, is facing challenges with employee turnover and wants to understand the key reasons why employees leave. They have historical HR data containing employee demographics, job roles, compensation, performance, and engagement metrics.
+
+The company wants a data-driven solution to help HR answer these questions:
+
+
+Which employees are at risk of leaving the company - age group , gender , department , job role , job satisfaction
+
+How do career growth factors like years at company, years in current role, and promotions impact employee retention
+
+The goal is to use SQL to clean, analyze, and summarize the HR data, and Power BI to create an interactive dashboard to provide insights that help HR to make better decisions to retain employees.
