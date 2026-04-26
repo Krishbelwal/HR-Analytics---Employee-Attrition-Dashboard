@@ -41,14 +41,15 @@ years in company vs attrition
   
 ## 7. Project Workflow
 1. **Data Import:** Imported Excel dataset from Kaggle.  
-2. **Understand Business Problem** Analysed strategic content planning needs.  
-3. **Define Key Metrics & KPIs:** Total shows, movies vs TV shows, top genres, top countries, YoY trends, and more.  
-4. **Data Cleaning & Transformation:** Cleaned data in Excel and Power Query.  
-5. **Data Analysis:** Used pivot tables and charts in Excel to identify patterns and trends.  
-6. **Power BI Import:** Imported cleaned data for visualisation.  
-7. **DAX Measures:** Created measures like Total Shows, Total Movies, Total TV Shows, YoY Growth, and Top Countries.  
-8. **Dashboard Development:** Built interactive dashboards with charts, tables, slicers, and KPIs.  
-9. **Insights & Recommendations:** Derived actionable insights to support business decisions.  
+2. **Understand Business Problem and keywords** .  
+3. **Define Key Metrics & KPIs:** .  
+4. **Data Cleaning & Transformation:** Cleaned data in sql and basic in Power Query.  
+5. **Data Analysis:** Used sql for data analysis.
+6. **creating views :** created views of each sql query to import only relevent data in powerbi .
+7. **Power BI Import:** Imported aggrigiated data in powerbi for visualisation.  
+8. **DAX Measures:** Created measures like .  
+9. **Dashboard Development:** Built interactive dashboards with charts, tables, slicers, and KPIs.  
+10. **Insights & Recommendations:** Derived actionable insights to support business decisions.  
 
 
 ## 8. Key Insights & Business Recommendations
