@@ -37,11 +37,9 @@ years in company vs attrition
 
 ## 6. Dataset Links
 - **Dataset:** [Download CSV](https://github.com/Krishbelwal/HR-Analytics---Employee-Attrition-Dashboard/blob/main/Dataset.csv)  
+  
 
-## 7. Dashboard Previews
-- **Content Type Overview:** [View Dashboard](https://github.com/Krishbelwal/Netflix_Content_Analysis/blob/main/Netfllix%20Content%20Type%20overview.png)   
-
-## 8. Project Workflow
+## 7. Project Workflow
 1. **Data Import:** Imported Excel dataset from Kaggle.  
 2. **Understand Business Problem** Analysed strategic content planning needs.  
 3. **Define Key Metrics & KPIs:** Total shows, movies vs TV shows, top genres, top countries, YoY trends, and more.  
@@ -53,7 +51,7 @@ years in company vs attrition
 9. **Insights & Recommendations:** Derived actionable insights to support business decisions.  
 
 
-## 9. Key Insights & Business Recommendations
+## 8. Key Insights & Business Recommendations
 
 **1. Popular Content**  
 - Netflix has a total of **24,000 shows**, with **Movies making up 71% and TV Shows 29%**.  
