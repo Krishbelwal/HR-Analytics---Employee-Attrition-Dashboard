@@ -1,7 +1,8 @@
 # HR Analytics - Employee Attrition Dashboard
 
-![Content Type Overview](Netfllix_Content_Type_overview.png)  
-![Genres Overview](Netfllix_Geners_overview.png)  
+![Front page](Front_page.png)  
+![Dashboard1](Dashboard1.png)  
+![Dashboard2](Dashboard2.png)  
 
 ## 1. Project Overview
 This project analyses employee attrition data to identify key factors influencing employee turnover, such as age, gender, department, salary, job role, job satisfaction, and career growth patterns. The goal is to understand why employees leave the company and provide data-driven insights to improve employee retention and support better HR decision-making.
@@ -31,11 +32,11 @@ years in company vs attrition
 - checking duplicate (Emp_id-wise or row-wise).
 - checking null values and handling them(using the collesce function).
 - Data type change
-- Perform data transforamtion  mtlb jaise mne col m values ko chace kiya h jaise maan lo years at company col m 0-5 jha jha likha h usko mne "0-5y" kr diya . is tyoe se kiya h to isko kya likhe. 
+- Perform data transformation  mtlb jaise mne col m values ko chace kiya h jaise maan lo years at company col m 0-5 jha jha likha h usko mne "0-5y" kr diya . is tyoe se kiya h to isko kya likhe. 
  
 
 ## 6. Dataset Links
-- **Dataset:** [Download CSV](https://github.com/Krishbelwal/Netflix_Content_Analysis/blob/main/Original_dataset.csv)  
+- **Dataset:** [Download CSV](https://github.com/Krishbelwal/HR-Analytics---Employee-Attrition-Dashboard/blob/main/Dataset.csv)  
 
 ## 7. Dashboard Previews
 - **Content Type Overview:** [View Dashboard](https://github.com/Krishbelwal/Netflix_Content_Analysis/blob/main/Netfllix%20Content%20Type%20overview.png)   
