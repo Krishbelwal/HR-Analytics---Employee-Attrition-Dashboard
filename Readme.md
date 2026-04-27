@@ -87,7 +87,6 @@ Example:
 **Insight:** R&D department shows the highest attrition, mainly due to salary concerns.  
 **Recommendation:** Improve compensation, work environment, and employee engagement.
 
----
 
 ### 4. Job Role
 **Insight:** Higher attrition observed in Lab Technician and Sales Executive roles.  
