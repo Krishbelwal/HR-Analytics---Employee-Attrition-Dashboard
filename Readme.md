@@ -4,73 +4,131 @@
 ![Dashboard1](Dashboard1.png)  
 ![Dashboard2](Dashboard2.png)  
 
-## 1. Project Overview
-This project analyses employee attrition data to identify key factors influencing employee turnover, such as age, gender, department, salary, job role, job satisfaction, and career growth patterns. The goal is to understand why employees leave the company and provide data-driven insights to improve employee retention and support better HR decision-making.
+---
 
-## 2. Key Metrics 
-Age group vs attrition
-Gender vs attrition rate
-dept vs attrition
-salary vs attrition
-years in current role vs attrition
-Job Role vs Attrition
-job satisfaction vs attrition
-promotion vs attrition
-years in company vs attrition
+## 1. Project Overview
+This project analyzes employee attrition data to identify key factors influencing employee turnover, such as age, gender, department, salary, job role, job satisfaction, and career growth patterns.  
+
+The goal is to understand why employees leave the company and provide data-driven insights to improve employee retention and support better HR decision-making.
+
+---
+
+## 2. Key Metrics
+- Age group vs Attrition  
+- Gender vs Attrition rate  
+- Department vs Attrition  
+- Salary vs Attrition  
+- Years in current role vs Attrition  
+- Job Role vs Attrition  
+- Job Satisfaction vs Attrition  
+- Promotion vs Attrition  
+- Years in company vs Attrition  
+
+---
 
 ## 3. Dataset
 - **Source:** Kaggle  
-- **Total Records:** 15k
-- **Columns:** 38 
+- **Total Records:** 15,000  
+- **Columns:** 38  
+
+---
 
 ## 4. Tools & Technologies
-- **sql:** Data cleaning & analysis.
-- **Power BI:** Dashboard development & visualization.
+- **SQL (MySQL):** Data cleaning, data transformation, creating views, and exploratory data analysis  
+- **Power BI:** Dashboard creation, data visualisation, and interactive reporting  
+- **DAX (Data Analysis Expressions):** Creating KPIs like Total Employees, Attrition Rate, and custom measures  
+- **Power Query:** basic data cleaning 
 
+---
 
 ## 5. Data Cleaning Steps
-- checking duplicate (Emp_id-wise or row-wise).
-- checking null values and handling them(using the collesce function).
-- Data type change
-- Perform data transformation  mtlb jaise mne col m values ko chace kiya h jaise maan lo years at company col m 0-5 jha jha likha h usko mne "0-5y" kr diya . is tyoe se kiya h to isko kya likhe. 
- 
+- Checked duplicates (Emp_ID-wise and row-wise)  
+- Handled null values using the `COALESCE` function  
+- Changed data types where required  
+- Performed data transformation  
 
-## 6. Dataset Links
+Example:
+- Converted values like `0-5` in "Years at Company" column to `0-5y` for better readability  
+
+---
+
+## 6. Dataset Link
 - **Dataset:** [Download CSV](https://github.com/Krishbelwal/HR-Analytics---Employee-Attrition-Dashboard/blob/main/Dataset.csv)  
 
-  
-## 7. Project Workflow
-1. **Data Import:** Imported Excel dataset from Kaggle.  
-2. **Understand Business Problem and keywords** .  
-3. **Define Key Metrics & KPIs:** .  
-4. **Data Cleaning & Transformation:** Cleaned data in sql and basic in Power Query.  
-5. **Data Analysis:** Used sql for data analysis.
-6. **creating views :** created views of each sql query to import only relevent data in powerbi .
-7. **Power BI Import:** Imported aggrigiated data in powerbi for visualisation.  
-8. **DAX Measures:** Created measures like .  
-9. **Dashboard Development:** Built interactive dashboards with charts, tables, slicers, and KPIs.  
-10. **Insights & Recommendations:** Derived actionable insights to support business decisions.  
+---
 
+## 7. Project Workflow
+1. Data Import: Imported dataset from Kaggle  
+2. Business Understanding: Identified key problems and requirements  
+3. Defined KPIs: Age group, gender, department, etc. vs attrition  
+4. Data Cleaning & Transformation: Cleaned data using MySQL and Power Query  
+5. Data Analysis: Performed SQL-based analysis  
+6. View Creation: Created SQL views for Power BI import  
+7. Power BI Import: Loaded processed data into Power BI  
+8. DAX Measures: Created KPIs like Total Employees, Attrition Count, etc.  
+9. Dashboard Development: Built interactive dashboards with visuals and slicers  
+10. Insights & Recommendations: Derived business insights for decision-making  
+
+---
 
 ## 8. Key Insights & Business Recommendations
 
-**1. Popular Content**  
-- Netflix has a total of **24,000 shows**, with **Movies making up 71% and TV Shows 29%**.  
-- This shows that movies dominate, so Netflix could **focus more on TV shows to increase long-term user engagement**.  
+### 1. Age Group
+**Insight:** Highest attrition is in the 26–35 age group due to salary, overtime, and growth issues.  
+**Recommendation:** Improve salary structure and provide clear career growth opportunities.
 
-**2. Top Producing Countries**  
-- The **USA leads with ~6,700 shows** around 42%.  
-- This indicates strong production in the US, but Netflix can **invest more in India and the UK to attract more and user subscribers**.  
+---
 
-**3. Popular Genres**  
-- The most popular genres are **International Movies and Dramas**, which have the highest number of shows.  
-- Netflix could **also explore other genres** to diversify content and reach different audiences.  
+### 2. Gender
+**Insight:** Slightly higher attrition among male employees, possibly due to workload and delayed promotions (especially in 0–5 years experience group).  
+**Recommendation:** Ensure fair pay, balanced workload, and timely promotions.
 
-**4. Content Trends**  
-- The year-over-year content growth has been **fluctuating**, with some years higher and others lower.  
-- This suggests that Netflix should **plan content production more strategically** to maintain consistent growth.  
+---
 
-**5. Ratings Distribution**  
-- Most content is targeted toward **general and teen audiences (TV-MA, TV-14)**.  
-- Since International Movies are most popular among these ratings, Netflix can **focus on producing content in this genre to attract and retain teen viewers**.  
+### 3. Department
+**Insight:** R&D department shows the highest attrition, mainly due to salary concerns.  
+**Recommendation:** Improve compensation, work environment, and employee engagement.
 
+---
+
+### 4. Job Role
+**Insight:** Higher attrition observed in Lab Technician and Sales Executive roles.  
+**Recommendation:** Improve salary, workload balance, and career growth opportunities.
+
+---
+
+### 5. Job Satisfaction
+**Insight:** Employees with low or neutral satisfaction are more likely to leave.  
+**Recommendation:** Conduct regular feedback sessions and address concerns early.
+
+---
+
+### 6. Years in Company
+**Insight:** Employees with 0–5 years of experience show the highest attrition.  
+**Recommendation:** Provide onboarding support, mentorship, and early career growth opportunities.
+
+---
+
+### 7. Salary
+**Insight:** Employees with lower salaries have higher attrition rates.  
+**Recommendation:** Improve salary structure and introduce performance-based incentives.
+
+---
+
+### 8. Promotions
+**Insight:** Lack of promotions increases attrition.  
+**Recommendation:** Implement a fair and timely promotion policy.
+
+---
+
+### 9. Current Role Tenure
+**Insight:** Long duration in the same role leads to higher attrition.  
+**Recommendation:** Introduce role rotation and internal job movement opportunities.
+
+
+
+---
+
+## 9. Conclusion
+
+This HR Analytics project provides clear insights into the key factors driving employee attrition. The analysis shows that attrition is mainly influenced by salary, lack of promotions, job satisfaction, and limited career growth opportunities.
