@@ -77,13 +77,11 @@ Example:
 **Insight:** Highest attrition is in the 26–35 age group due to salary, overtime, and growth issues.  
 **Recommendation:** Improve salary structure and provide clear career growth opportunities.
 
----
 
 ### 2. Gender
 **Insight:** Slightly higher attrition among male employees, possibly due to workload and delayed promotions (especially in 0–5 years experience group).  
 **Recommendation:** Ensure fair pay, balanced workload, and timely promotions.
 
----
 
 ### 3. Department
 **Insight:** R&D department shows the highest attrition, mainly due to salary concerns.  
@@ -95,31 +93,26 @@ Example:
 **Insight:** Higher attrition observed in Lab Technician and Sales Executive roles.  
 **Recommendation:** Improve salary, workload balance, and career growth opportunities.
 
----
 
 ### 5. Job Satisfaction
 **Insight:** Employees with low or neutral satisfaction are more likely to leave.  
 **Recommendation:** Conduct regular feedback sessions and address concerns early.
 
----
 
 ### 6. Years in Company
 **Insight:** Employees with 0–5 years of experience show the highest attrition.  
 **Recommendation:** Provide onboarding support, mentorship, and early career growth opportunities.
 
----
 
 ### 7. Salary
 **Insight:** Employees with lower salaries have higher attrition rates.  
 **Recommendation:** Improve salary structure and introduce performance-based incentives.
 
----
 
 ### 8. Promotions
 **Insight:** Lack of promotions increases attrition.  
 **Recommendation:** Implement a fair and timely promotion policy.
 
----
 
 ### 9. Current Role Tenure
 **Insight:** Long duration in the same role leads to higher attrition.  
