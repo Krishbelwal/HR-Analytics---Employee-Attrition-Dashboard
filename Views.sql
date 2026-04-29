@@ -2,7 +2,7 @@ use Employee_Attrition;
 select * from Employee_Attrition;
 
 
-                                                                         -- kpi's --
+-- kpi's --
 
 -- kpi Total Employees
 create view kpi_Total_Employees As select Gender ,count(emp_id) from employee_attrition group by Gender;
