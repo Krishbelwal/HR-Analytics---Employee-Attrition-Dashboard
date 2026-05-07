@@ -123,4 +123,4 @@ Example:
 
 ## 9. Conclusion
 
-This HR Analytics project provides clear insights into the key factors driving employee attrition. The analysis shows that attrition is mainly influenced by salary, lack of promotions, job satisfaction, and limited career growth opportunities.
+This HR Analytics project provides clear insights into the key factors driving employee attrition. The analysis shows that attrition has been mainly influenced by salary, workload issues and limited career growth opportunities.
