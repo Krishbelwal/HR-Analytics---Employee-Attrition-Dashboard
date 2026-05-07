@@ -79,13 +79,13 @@ Example:
 
 
 ### 2. Gender
-**Insight:** Slightly higher attrition among male employees, possibly due to workload and delayed promotions (especially in 0–5 years experience group).  
+**Insight:** Slightly higher attrition among male employees, possibly due to workload and delayed promotions (especially in the 0–5 years experience group).  
 **Recommendation:** Ensure fair pay, balanced workload, and timely promotions.
 
 
 ### 3. Department
-**Insight:** R&D department shows the highest attrition, mainly due to salary concerns.  
-**Recommendation:** Improve compensation, work environment, and employee engagement.
+**Insight:** The R&D department shows the highest attrition, mainly due to salary concerns.  
+**Recommendation:**  Improve salary structure and work environment  for the R&D department Employees.
 
 
 ### 4. Job Role
