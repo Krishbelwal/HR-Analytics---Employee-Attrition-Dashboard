@@ -84,7 +84,7 @@ Example:
 
 
 ### 3. Department
-**Insight:** The R&D department shows the highest attrition, mainly due to salary concerns.  
+**Insight:** The R&D department shows the highest attrition, mainly due to salary concerns and overtime issues.  
 **Recommendation:**  Improve salary structure and work environment  for the R&D department Employees.
 
 
