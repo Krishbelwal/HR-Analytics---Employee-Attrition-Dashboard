@@ -115,7 +115,7 @@ Example:
 
 ### 9. Current Role Tenure
 **Insight:** Long duration in the same role leads to higher attrition.  
-**Recommendation:** Introduce role rotation and internal job movement opportunities.
+**Recommendation:** Introduce role rotation and internal job movement opportunities to retain the employees.
 
 
 
