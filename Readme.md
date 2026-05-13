@@ -80,7 +80,7 @@ Example:
 
 ### 2. Gender
 **Insight:** Slightly higher attrition among male employees, possibly due to workload and delayed promotions (especially in the 0–5 years experience group).  
-**Recommendation:** Ensure fair pay, balanced workload, and timely promotions.
+**Recommendation:**  The company should focus on balanced workload, and timely promotions.
 
 
 ### 3. Department
