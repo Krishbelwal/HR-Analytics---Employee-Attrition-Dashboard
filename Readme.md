@@ -99,8 +99,8 @@ Example:
 
 
 ### 6. Years in Company
-**Insight:** Employees with 0–5 years of experience show the highest attrition.  
-**Recommendation:** Provide onboarding support, mentorship, and early career growth opportunities.
+**Insight:** Employees with 0–5 years of experience show the highest attrition which may due to the salary , overtime and promotions.  
+**Recommendation:**.
 
 
 ### 7. Salary
