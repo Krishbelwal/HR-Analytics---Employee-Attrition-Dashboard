@@ -94,8 +94,8 @@ Example:
 
 
 ### 5. Job Satisfaction
-**Insight:** Employees with low or neutral satisfaction are more likely to leave.  
-**Recommendation:** Conduct regular feedback sessions and address concerns early.
+**Insight:** Employees with low or neutral satisfaction are more likely to leave , espically those with 0-5 years in current role , comapny and 0-5 years promtions period.  
+**Recommendation:** Conduct carrer development opportunities and improve the promption cycle.
 
 
 ### 6. Years in Company
