@@ -99,23 +99,23 @@ Example:
 
 
 ### 6. Years in Company
-**Insight:** Employees with 0–5 years of experience show the highest attrition which may due to the salary , overtime and promotions.  
-**Recommendation:**.
+**Insight:** Employees with 0–5 years of experience show the highest attrition mainly due to the low job satisfaction , low salary , overtime  and delayed promotions which indiacates that lack of carrier growth and low enagment are the major reason.  
+**Recommendation:** The company should conduct carrier development programms , timely promtions  , manage workload and focus on better employee engegment to reduce attriion specially with 0-5 years employees.
 
 
 ### 7. Salary
-**Insight:** Employees with lower salaries have higher attrition rates.  
-**Recommendation:** Improve salary structure and introduce performance-based incentives.
+**Insight:** Employees with lower salaries have higher attrition which indicates low compansion may be a major factor.  
+**Recommendation:** Improve salary structure and performance based rewards to retain the employees.
 
 
 ### 8. Promotions
 **Insight:** Lack of promotions increases attrition.  
-**Recommendation:** Implement a fair and timely promotion policy.
+**Recommendation:** introduce timely promotion policy.
 
 
-### 9. Current Role Tenure
-**Insight:** Long duration in the same role leads to higher attrition.  
-**Recommendation:** Introduce role rotation and internal job movement opportunities to retain the employees.
+### 9. Current Role 
+**Insight:** Long duration in the same role leads to the higher attrition.  
+**Recommendation:** Introduce internal job movement opportunities to retain the employees.
 
 
 
