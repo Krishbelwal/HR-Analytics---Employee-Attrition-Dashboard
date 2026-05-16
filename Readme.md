@@ -74,13 +74,13 @@ Example:
 ## 8. Key Insights & Business Recommendations
 
 ### 1. Age Group
-**Insight:** Highest attrition is in the 26–35 age group due to salary, overtime, and growth issues.  
-**Recommendation:** Improve salary structure and provide clear career growth opportunities.
+**Insight:** Highest attrition is in the 26–35 age group possibly due to salary, overtime, job satisfaction , current role , which indicates that employees are leaving company due to compansion issues , work life balance issues and limited carrier growth opportunity.  
+**Recommendation:** Improve salary structure and provide clear career growth opportunities and mange the workload specially for 26-23 age group employees.
 
 
 ### 2. Gender
-**Insight:** Slightly higher attrition among male employees, possibly due to workload and delayed promotions (especially in the 0–5 years experience group).  
-**Recommendation:**  The company should focus on balanced workload, and timely promotions.
+**Insight:** Slightly higher attrition among male employees, possibly due to workload and delayed promotions and low salary(0-5 LPA) in the (0–5 years) experience group. which indicates that early carrier male employees in the company are facing chalenges related to worklife balance , limited carrier growth and low compansion. 
+**Recommendation:**  The company should focus on a balanced workload and timely promotions and better salary structure for early male employees.
 
 
 ### 3. Department
@@ -99,8 +99,8 @@ Example:
 
 
 ### 6. Years in Company
-**Insight:** Employees with 0–5 years of experience show the highest attrition mainly due to the low job satisfaction , low salary , overtime  and delayed promotions which indiacates that lack of carrier growth and low enagment are the major reason.  
-**Recommendation:** The company should conduct carrier development programms , timely promtions  , manage workload and focus on better employee engegment to reduce attriion specially with 0-5 years employees.
+**Insight:** Employees with 0–5 years of experience show the highest attrition mainly due to the low job satisfaction, low salary, overtime  and delayed promotions, which indicates that lack of career growth and low engagement are the major reasons.  
+**Recommendation:** The company should conduct career development programs, timely promotions , manage workload and focus on better employee engagement to reduce attriion specially with 0-5 years employees.
 
 
 ### 7. Salary
@@ -116,8 +116,6 @@ Example:
 ### 9. Current Role 
 **Insight:** Long duration in the same role leads to the higher attrition.  
 **Recommendation:** Introduce internal job movement opportunities to retain the employees.
-
-
 
 ---
 
