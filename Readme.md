@@ -71,53 +71,104 @@ Example:
 
 ---
 
-## 8. Key Insights & Business Recommendations
+# 📊 Key Insights & Business Recommendations
 
-### 1. Age Group
-**Insight:** Highest attrition is in the 26–35 age group possibly due to salary, overtime, job satisfaction , current role , which indicates that employees are leaving company due to compansion issues , work life balance issues and limited carrier growth opportunity.  
-**Recommendation:** Improve salary structure and provide clear career growth opportunities and mange the workload specially for 26-23 age group employees.
+## 1. Age Group
+### Insight
+The highest attrition was observed in the **26–35 age group**. Major contributing factors include low salary, overtime, low job satisfaction, and limited career growth opportunities.
 
-
-### 2. Gender
-**Insight:** Slightly higher attrition among male employees, possibly due to workload and delayed promotions and low salary(0-5 LPA) in the (0–5 years) experience group. which indicates that early carrier male employees in the company are facing chalenges related to worklife balance , limited carrier growth and low compansion. 
-**Recommendation:**  The company should focus on a balanced workload and timely promotions and better salary structure for early male employees.
-
-
-### 3. Department
-**Insight:** The R&D department shows the highest attrition, mainly due to salary concerns and overtime issues.  
-**Recommendation:**  Improve salary structure and work environment  for the R&D department Employees.
-
-
-### 4. Job Role
-**Insight:** Higher attrition observed in Lab Technician and Sales Executive roles.  
-**Recommendation:** Improve salary, workload balance, and career growth opportunities.
-
-
-### 5. Job Satisfaction
-**Insight:** Employees with low or neutral satisfaction are more likely to leave , espically those with 0-5 years in current role , comapny and 0-5 years promtions period.  
-**Recommendation:** Conduct carrer development opportunities and improve the promption cycle.
-
-
-### 6. Years in Company
-**Insight:** Employees with 0–5 years of experience show the highest attrition mainly due to the low job satisfaction, low salary, overtime  and delayed promotions, which indicates that lack of career growth and low engagement are the major reasons.  
-**Recommendation:** The company should conduct career development programs, timely promotions , manage workload and focus on better employee engagement to reduce attriion specially with 0-5 years employees.
-
-
-### 7. Salary
-**Insight:** Employees with lower salaries have higher attrition which indicates low compansion may be a major factor.  
-**Recommendation:** Improve salary structure and performance based rewards to retain the employees.
-
-
-### 8. Promotions
-**Insight:** Lack of promotions increases attrition.  
-**Recommendation:** introduce timely promotion policy.
-
-
-### 9. Current Role 
-**Insight:** Long duration in the same role leads to the higher attrition.  
-**Recommendation:** Introduce internal job movement opportunities to retain the employees.
+### Recommendation
+- Improve compensation structure  
+- Provide clear career growth opportunities  
+- Manage workload effectively for employees in this age group  
 
 ---
+
+## 2. Gender
+### Insight
+Attrition was slightly higher among **male employees**, especially in the **0–5 years experience group**. The key reasons identified were low salary, delayed promotions, and workload issues.
+
+### Recommendation
+- Improve work-life balance  
+- Provide timely promotions  
+- Offer competitive salary packages for early-career employees  
+
+---
+
+## 3. Department
+### Insight
+The **R&D department** showed the highest attrition, mainly due to salary concerns, overtime, low job satisfaction, and delayed promotions.
+
+### Recommendation
+- Improve employee engagement  
+- Manage workload effectively  
+- Provide better career growth opportunities  
+- Enhance compensation policies  
+
+---
+
+## 4. Job Role
+### Insight
+Higher attrition was observed among **Lab Technicians** and **Sales Executives**, particularly in the **0–5 years experience group**. Key factors included low salary, low job satisfaction, and delayed promotions.
+
+### Recommendation
+- Provide better compensation  
+- Improve career progression opportunities  
+- Conduct role-specific employee engagement initiatives  
+
+---
+
+## 5. Job Satisfaction
+### Insight
+Employees with **low or neutral job satisfaction** were more likely to leave the company, especially early-career employees.
+
+### Recommendation
+- Conduct regular feedback sessions  
+- Introduce career development programs  
+- Improve employee engagement activities  
+
+---
+
+## 6. Years in Company
+### Insight
+Employees with **0–5 years in the company** showed the highest attrition. The main reasons were low salary, overtime, low job satisfaction, and lack of career growth.
+
+### Recommendation
+- Introduce structured career development programs  
+- Provide timely promotions  
+- Manage workload effectively  
+- Strengthen employee engagement strategies  
+
+---
+
+## 7. Salary
+### Insight
+Higher attrition was observed among employees with lower salary levels, indicating compensation as a major factor behind employee turnover.
+
+### Recommendation
+- Improve salary structures  
+- Introduce performance-based rewards and incentives  
+
+---
+
+## 8. Promotions
+### Insight
+Employees who did not receive promotions for a long time were more likely to leave the company.
+
+### Recommendation
+- Implement a transparent and timely promotion policy  
+
+---
+
+## 9. Current Role
+### Insight
+Employees staying in the same role for a long duration showed higher attrition, indicating limited growth opportunities.
+
+### Recommendation
+- Introduce internal job movement opportunities  
+- Support role transition and career growth initiatives  
+```
+
 
 ## 9. Conclusion
 
