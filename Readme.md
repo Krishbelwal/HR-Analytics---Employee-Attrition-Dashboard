@@ -74,43 +74,46 @@ Example:
 # 📊 Key Insights & Business Recommendations
 
 ## 1. Age Group
+
 ### Insight
-The highest attrition was found in the 26–35 age group. Major factors indetifiedI salary, overtime, job satisfaction, and promotion were the main factors affecting attrition. This shows employees in this age group are more concerned about growth, salary, and work-life balance
+The highest attrition was found in the 26–35 age group. Major factors identified include salary, overtime, job satisfaction, and promotion. This shows employees in this age group are more concerned about growth, salary, and work-life balance.
 
 ### Recommendation
- improving these factors to increase employee retention.
+- Improve salary structure.
+- introduce promotion policies
+- provide clear growth opportunities
 
 ---
 
 ## 2. Gender
 ### Insight
-Attrition was slightly higher among male employees, especially in the 0–5 years experience group. major factors low salary, promotions, workload, and current role . This indicates that employees in the early stage of their careers are more concerned about salary,growth opportunities and worload issues.
+Attrition was slightly higher among male employees, especially in the 0–5 years experience group. major factors identified - low salary, promotions, workload, and current role. This indicates that employees in the early stage of their careers are more concerned about salary, growth opportunities and workload issues.
 
 ### Recommendation
 - Offer competitive salary packages for early-career employees
 - provide clear career growth opportunities.
 - Provide timely promotions  
-- Improve work-life balance  ---
+- Improve work-life balance 
 
 ---
 
 ## 3. Department
 ### Insight
-The **R&D department** showed the highest attrition, mostly due to salary concerns , and delayed promotions which is indicating that employee are leacing company of this dept due to salary and carrier growth conncerns.
+The **R&D department** showed the highest attrition, mostly due to salary concerns, and delayed promotions. This indicates that employees are leaving the company in this department due to salary and career growth concerns.
 
 ### Recommendation
 - Improve salary structure
-- intriduce promotion policies for this dept emp
+- introduce promotion policies for this department Employees
 
 ---
 
 ## 4. Job Role
 
 ### Insight
-Higher attrition was observed among **Lab Technicians** and **Sales Executives**, particularly in the **0–5 years experience group**. main Key factors included job satisfaction , salary,  promotion issues and current role. which indicates that this job role emp in this role are leaving com due to the dissatisfaction , compension issues and carrier growth opportunity,
+Higher attrition was observed among **Lab Technicians** and **Sales Executives**, particularly in the **0–5 years experience group**. major  factors indentified - job Satisfaction, salary,  promotion issues and current role. This indicates that this job role Employees in this role are leaving company due to dissatisfaction, compensation issues and career growth opportunities.
 
 ### Recommendation
-- Conduct regular feedback sessions to understand employee concerns to improve job satisfaction.
+- Conduct regular feedback sessions to understand employee concerns and improve job satisfaction.
 - Provide better compensation  
 - Improve career progression opportunities specially  0-5 years employees in the company.
 
@@ -150,7 +153,7 @@ Higher attrition was observed among employees with lower salary levels, indicati
 
 ## 8. Promotions
 ### Insight
-early carrier Employees (0-5) were more likely to leave the company indicating limitd carrrer growth for early carrier employees.
+early carrier Employees (0-5) were more likely to leave the company, indicating limited career growth for early carrier employees.
 
 ### Recommendation
 - Implement timely promotion policy for this group
@@ -166,13 +169,6 @@ Employees staying in the same role  duration (0-5) showed higher attrition, indi
 
 
 
-
-### Recommendation
-- Introduce internal job movement opportunities  
-- Support role transition and career growth initiatives  
-```
-
-
 ## 9. Conclusion
 
-This HR Analytics project provides clear insights into the key factors driving employee attrition. The analysis shows that attrition has been mainly influenced by salary, workload issues and limited career growth opportunities.
+This HR Analytics project provides clear insights into employee turnover. The major factors identified are compensation issues, workload concerns, and limited career growth opportunities, especially among employees in the 0–5 years experience group. This indicates that early-career employees are more likely to leave due to lack of satisfaction in pay, workload balance, and growth opportunities.
